@@ -30,14 +30,14 @@
 
 
 <h2>Self Introduction</h2>
-<h3>Back Ground History</h3>
+<h3>●Back Ground History</h3>
 <ul>
   <li>2004: Born in Japan</li>
   <li>2023: Graduated from a Japanese high school</li>
   <li>2023: Taking MUFY at Sunway College in Malaysia</li>
 </ul>
 
-<h3>Awards</h3>
+<h3>●Awards</h3>
 <h4>Junior High School</h4>
 <ul>
   <li>🥇The championship in the team competition of the prefectural Shogi (Japanese Chess) tournament</li>
@@ -51,7 +51,7 @@
   <li>🥉3rd place in the national computer typing contest sponsored by The Mainichi Newspapers Co.,Ltd</li>
 </ul>
 
-<h3>Other Skills, etc.</h3>
+<h3>●Other Skills, etc.</h3>
 <ul>
   <li>🎶I can copy music by my own ear and write sheet music.</li>
   <li>🎹That piano's YouTube channel has surpassed 3,000 subscribers.</li>
