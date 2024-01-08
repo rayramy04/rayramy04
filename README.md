@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ray 👋</h1>
-<h3 align="center">University Students studying Computer Science and Data Science.</h3>
+<h3 align="center">University student from Japan studying Computer Science and Data Science in Malaysia</h3>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
   <img align="left" src="https://komarev.com/ghpvc/?username=ll-0013py&style=flat" alt="GitHub Profile Views" />
