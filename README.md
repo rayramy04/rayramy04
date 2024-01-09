@@ -7,6 +7,11 @@
 <a href="https://twitter.com/ll_0013py">
   <img src="https://img.shields.io/twitter/follow/ll_0013py?style=social" alt="Twitter Follow" />
 </a>
+<h3>
+    <a href="https://ll-0013py.github.io/connect-with-me/">
+        All My Contact Information
+    </a>
+</h3>
 
 
 <h2>Skill</h2>
@@ -71,6 +76,11 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="ray_pianocover" height="30" width="40" /></a>
 </p>
+<h3>
+    <a href="https://ll-0013py.github.io/connect-with-me/">
+        All My Contact Information
+    </a>
+</h3>
 
 
 
