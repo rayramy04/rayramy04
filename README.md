@@ -54,7 +54,7 @@
 <h3>●Other Skills, etc.</h3>
 <ul>
   <li>🎶I can copy music by my own ear and write sheet music.</li>
-  <li>🎹That piano's YouTube channel has surpassed 3,000 subscribers.</li>
+  <li>🎹That Piano's YouTube channel has surpassed 3,000 subscribers.</li>
   <li>💻I write a blog about my life abroad.</li>
 </ul>
 
