@@ -45,12 +45,9 @@
 <h3>●Awards</h3>
 <h4>Junior High School</h4>
 <ul>
-  <li>🥇The championship in the team competition of the prefectural Shogi (Japanese Chess) tournament</li>
+  <li>🥇The championship in the team competition of the prefectural Shogi (Japanese Chess) tournament (Junior High School)</li>
   <li>🥈2nd place in the team competition and 🥉3rd place in the individual competition of the Shogi (Japanese Chess)
     tournament</li>
-</ul>
-<h4>High School</h4>
-<ul>
   <li>🥇The Grand prize and 🎖️Effort award at several science fairs in Japan for my Text-to-Speech research</li>
   <li>🗺Participated in a world science fair called "Global link online" with that study</li>
   <li>🥉3rd place in the national computer typing contest sponsored by The Mainichi Newspapers Co.,Ltd</li>
