@@ -15,7 +15,11 @@
         My Website
     </a>
 </h3>
-
+<h3>
+    <a href="https://ray-globallife.com/">
+        My Website
+    </a>
+</h3>
 
 <h2>Skill</h2>
 <img alt="my skills"
@@ -80,6 +84,8 @@
     <a href="https://ll-0013py.github.io/connect-with-me/">
         All My Contact Information
     </a>
+</h3>
+<h3>
     <a href="https://ray-globallife.com/">
         My Website
     </a>
