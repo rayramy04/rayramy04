@@ -47,7 +47,6 @@
 </ul>
 
 <h3>●Awards</h3>
-<h4>Junior High School</h4>
 <ul>
   <li>🥇The championship in the team competition of the prefectural Shogi (Japanese Chess) tournament (Junior High School)</li>
   <li>🥈2nd place in the team competition and 🥉3rd place in the individual competition of the Shogi (Japanese Chess)
@@ -55,6 +54,9 @@
   <li>🥇The Grand prize and 🎖️Effort award at several science fairs in Japan for my Text-to-Speech research</li>
   <li>🗺Participated in a world science fair called "Global link online" with that study</li>
   <li>🥉3rd place in the national computer typing contest sponsored by The Mainichi Newspapers Co.,Ltd</li>
+  <li>The Merit Award in Problems 1 and 2 in the Japan Linguistics Olympiad 2024</li>
+  <li>🥉Bronze Award (Top 10%) in Language Explorer Competition 2024</li>
+  <li>Top 32 in Malaysian Computational Linguistics Olympiad (MyCLO) 2024</li>
 </ul>
 
 <h3>●Other Skills, etc.</h3>
