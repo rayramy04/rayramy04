@@ -39,7 +39,7 @@
 
 
 <h2>Self Introduction</h2>
-<h3><a href="https://ray-globallife.com/portfolio/">Please refer detailed portfolio!</a></h3><br>
+<h3><a href="https://ray-globallife.com/portfolio/">Please refer detailed portfolio!</a></h3>
 <h3>●Back Ground History</h3>
 <ul>
   <li>2024: Taking Bachelor of Computer Science in Data Science at Monash University Malaysia in Malaysia</li>
