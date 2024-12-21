@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/twitter/follow/ll_0013py?style=social" alt="Twitter Follow" />
 </a>
 <h3>
-    <a href="https://ll-0013py.github.io/connect-with-me/](https://ray-globallife.com/links/">
+    <a href="https://ray-globallife.com/links/">
         All My Contact Information
     </a>
 </h3>
