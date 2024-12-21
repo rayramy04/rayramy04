@@ -39,12 +39,12 @@
 
 
 <h2>Self Introduction</h2>
-<h3><a href="https://ray-globallife.com/portfolio/">Please refer detailed portfolio</a></h3>
 <h3>●Back Ground History</h3>
 <ul>
-  <li>2004: Born in Japan</li>
+  <li>2024: Taking Bachelor of Computer Science in Data Science at Monash University Malaysia in Malaysia</li>
+  <li>2023: Graduated from Sunway College (MUFY) in Malaysia</li>
   <li>2023: Graduated from a Japanese high school</li>
-  <li>2023: Taking MUFY at Sunway College in Malaysia</li>
+  <li>2004: Born in Japan</li>
 </ul>
 
 <h3>●Awards</h3>
@@ -58,12 +58,20 @@
   <li>The Merit Award in Problems 1 and 2 in the Japan Linguistics Olympiad 2024</li>
   <li>🥉Bronze Award (Top 10%) in Language Explorer Competition 2024</li>
   <li>Top 32 in Malaysian Computational Linguistics Olympiad (MyCLO) 2024</li>
+  <li>🥈 Silver Award (Top10%) in Kangaroo Math Competition 2024</li>
+</ul>
+
+<h3>●Grants</h3>
+<ul>
+  <li>2025: Monash High Achiever Award</li>
+  <li>2024: Monash High Achiever Award</li>
+  <li>2023: Pre-U Bursary for Overseas Qualification</li>
 </ul>
 
 <h3>●Other Skills, etc.</h3>
 <ul>
   <li>🎶I can copy music by my own ear and write sheet music.</li>
-  <li>🎹That Piano's YouTube channel has surpassed 3,000 subscribers.</li>
+  <li>🎹That Piano's YouTube channel has surpassed 5k subscribers.</li>
   <li>💻I write a blog about my life abroad.</li>
 </ul>
 
