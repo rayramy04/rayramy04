@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/twitter/follow/ll_0013py?style=social" alt="Twitter Follow" />
 </a>
 <h3>
-    <a href="https://ll-0013py.github.io/connect-with-me/">
+    <a href="https://ll-0013py.github.io/connect-with-me/](https://ray-globallife.com/links/">
         All My Contact Information
     </a>
 </h3>
@@ -39,6 +39,7 @@
 
 
 <h2>Self Introduction</h2>
+<h3><a href="https://ray-globallife.com/portfolio/">●Please refer detailed portfolio!</a></h3>
 <h3>●Back Ground History</h3>
 <ul>
   <li>2024: Taking Bachelor of Computer Science in Data Science at Monash University Malaysia in Malaysia</li>
@@ -86,7 +87,7 @@
       alt="ray_pianocover" height="30" width="40" /></a>
 </p>
 <h3>
-    <a href="https://ll-0013py.github.io/connect-with-me/">
+    <a href="https://ray-globallife.com/links/">
         All My Contact Information
     </a>
 </h3>
