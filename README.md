@@ -2,25 +2,25 @@
 <p align="center">University student from Japan studying Computer Science and Data Science in Malaysia</p>
 <h2>Skill</h2>
 <img alt="my skills"
-  src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,md,js,py,azure,vscode,anaconda,wordpress,github,discord,bots,twitter,instagram,linkedin" />
+  src="https://skillicons.dev/icons?theme=dark&perline=8&i=py,js,ts,react,nextjs,html,css,r,mysql,firebase,aws,git,github,linux,figma,wordpress" />
 
 
 <h2>History</h2>
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ll-0013py&theme=gotham&layout=compact"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayramy04&theme=gotham&layout=compact"
   alt="Repo Card" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img
-    src="https://github-readme-stats.vercel.app/api?username=ll-0013py&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&layout=compact"
+    src="https://github-readme-stats.vercel.app/api?username=rayramy04&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&layout=compact"
     alt="Anurag's github stats" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
   href="https://github.com/anuraghazra/github-readme-stats"><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll-0013py&theme=gotham&layout=compact" /></a>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayramy04&theme=gotham&layout=compact" /></a>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=ll-0013py" alt="ll-0013py" /></a> </p>
+      src="https://github-profile-trophy.vercel.app/?username=rayramy04" alt="rayramy04" /></a> </p>
 
 <!--
-**ll-0013py/ll-0013py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rayramy04/rayramy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
