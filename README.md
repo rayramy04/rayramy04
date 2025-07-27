@@ -1,9 +1,9 @@
 <!-- Modern Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20there%20👋&fontSize=60&fontAlign=70&fontAlignY=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:00d451&height=200&section=header&text=Hi%20there%20👋&fontSize=60&fontAlign=50&fontAlignY=45&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+%26+Data+Science+Student;Studying+at+Monash+University+Malaysia+🇲🇾;AI+%7C+ML+%7C+Web+Development+%7C+Music" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00d451&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+%26+Data+Science+Student;Studying+at+Monash+University+Malaysia+🇲🇾;AI+%7C+ML+%7C+Web+Development+%7C+Music" alt="Typing SVG" />
 </p>
 
 <h2 align="center">💻 Skills</h2>
@@ -53,4 +53,4 @@
 </p>
 
 <!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d451,100:0d1117&height=120&section=footer" />
