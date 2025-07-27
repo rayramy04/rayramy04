@@ -1,23 +1,11 @@
-<!-- Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20there👋&fontSize=50&fontColor=fff&animation=twinkling" />
+<!-- Modern Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=200&section=header&text=Ray&fontSize=70&fontAlign=70&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20%26%20Data%20Science&descAlign=70&descAlignY=55&descSize=20" />
 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+%26+Data+Science+Student;Studying+at+Monash+University+Malaysia+🇲🇾;AI+%7C+ML+%7C+Web+Development+%7C+Music" alt="Typing SVG" />
 </p>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rayramy04/count.svg" alt="Visitor Count" />
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/rayramy04?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/rayramy04?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-blue" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Malaysia%20🇲🇾-red" alt="Location" />
-</p>
 <h2>Skill</h2>
 <img alt="my skills"
   src="https://skillicons.dev/icons?theme=dark&perline=10&i=py,r,js,ts,html,css,react,nextjs,astro,php,mysql,postgresql,firebase,aws,git,github,wordpress,linux,figma" />
@@ -25,10 +13,6 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayramy04&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <!-- GitHub Stats Cards -->
 <p align="center">
@@ -41,10 +25,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayramy04&theme=gotham" alt="Profile Details" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayramy04&theme=gotham&hide_border=true" alt="Activity Graph" />
-</p>
 
 <!-- GitHub Trophies -->
 <p align="center">
