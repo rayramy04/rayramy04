@@ -1,5 +1,5 @@
 <!-- Modern Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:161b22,100:00d451&height=200&section=header&text=Hi%20there%20👋&fontSize=65&fontAlign=50&fontAlignY=45&fontColor=ffffff&stroke=0d1117&strokeWidth=0.5&animation=fadeIn&v=3" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:161b22,100:00d451&height=200&section=header&text=Hi%20there%20👋&fontSize=65&fontAlign=50&fontAlignY=45&fontColor=ffffff&stroke=0d1117&strokeWidth=0&animation=fadeIn&v=3" />
 
 <!-- Typing Animation -->
 <p align="center">
