@@ -1,5 +1,5 @@
 <!-- Modern Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1014,50:0c1014,100:00d451&height=200&section=header&text=Hi%20there%20👋&fontSize=65&fontAlign=50&fontAlignY=40&fontColor=00d451&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:065f46,100:00d451&height=200&section=header&text=Hi%20there%20👋&fontSize=65&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=twinkling" />
 
 <!-- Typing Animation -->
 <p align="center">
@@ -53,4 +53,4 @@
 </p>
 
 <!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d451,50:0c1014,100:0c1014&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d451,50:065f46,100:064e3b&height=120&section=footer" />
