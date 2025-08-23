@@ -30,7 +30,7 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayramy04&theme=gitdimmed&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rayramy04&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 <!-- Currently Playing Spotify (you can uncomment and add your Spotify if needed) -->
