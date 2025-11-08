@@ -6,13 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00d451&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+%26+Data+Science+Student;Studying+at+Monash+University+Malaysia+🇲🇾;AI+%7C+ML+%7C+Web+Development+%7C+Music" alt="Typing SVG" />
 </p>
 
-<!-- Portfolio Link -->
+<!-- Portfolio & Links -->
 <p align="center">
   <a href="https://rayramy04.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-rayramy04-00d451?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-rayramy04-00d451?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://rayramy04.github.io/linkcard/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20LINKS-rayramy04-0066cc?style=for-the-badge&logoColor=white" alt="Links" />
   </a>
 </p>
 
+<!-- Skills -->
 <h2 align="center">💻 Skills</h2>
 <p align="center">
   <img alt="my skills"
