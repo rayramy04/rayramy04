@@ -6,15 +6,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00d451&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Computer+Science+%26+Data+Science+Student;Studying+at+Monash+University+Malaysia+🇲🇾;AI+%7C+ML+%7C+Web+Development+%7C+Music" alt="Typing SVG" />
 </p>
 
+<!-- Portfolio Link -->
+<p align="center">
+  <a href="https://rayramy04.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PORTFOLIO-rayramy04-00d451?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <h2 align="center">💻 Skills</h2>
 <p align="center">
   <img alt="my skills"
     src="https://skillicons.dev/icons?theme=dark&perline=10&i=py,r,js,ts,html,css,react,nextjs,astro,php,mysql,postgresql,firebase,aws,git,github,wordpress,linux,figma" />
 </p>
 
-
 <h2 align="center">📊 GitHub Statistics</h2>
-
 
 <!-- GitHub Stats Cards -->
 <p align="center">
@@ -27,19 +32,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayramy04&theme=gotham" alt="Profile Details" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayramy04&theme=gotham" alt="Contribution Stats" />
+</p>
 
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rayramy04&theme=gitdimmed&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
-
-<!-- Currently Playing Spotify (you can uncomment and add your Spotify if needed) -->
-<!--
-<h2 align="center">🎵 Currently Playing</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
-</p>
--->
 
 <h2 align="center">📺 YouTube Channel</h2>
 <p align="center">
