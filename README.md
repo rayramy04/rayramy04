@@ -36,10 +36,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayramy04&theme=gotham" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayramy04&theme=gotham" alt="Contribution Stats" />
-</p>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rayramy04&theme=gitdimmed&no-frame=true&margin-w=10" alt="GitHub Trophies" />
