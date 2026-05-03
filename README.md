@@ -20,7 +20,7 @@
 <h2 align="center">💻 Skills</h2>
 <p align="center">
   <img alt="my skills"
-    src="https://skillicons.dev/icons?theme=dark&perline=12&i=py,r,js,react,nextjs,ts,astro,php,html,css,git,github,gitlab,docker,aws,cloudflare,mysql,firebase,supabase,vercel,wordpress,figma,apple,windows,linux,latex,npm,tailwindcss,pytorch,sklearn" />
+    src="https://skillicons.dev/icons?theme=dark&perline=12&i=py,r,java,js,ts,react,nextjs,astro,php,html,css,git,github,gitlab,aws,cloudflare,mysql,firebase,supabase,vercel,wordpress,figma,apple,windows,latex,anaconda,pytorch,sklearn,tailwindcss" />
 </p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
